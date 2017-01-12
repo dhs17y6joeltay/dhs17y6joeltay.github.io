@@ -1,0 +1,11 @@
+img{
+  width:250px;
+}
+
+img:hover{
+  width:400px;
+}
+
+#fav{
+  color:blue;
+}
